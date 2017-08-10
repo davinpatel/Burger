@@ -1,0 +1,26 @@
+{
+  "name": "eatdaburger",
+  "version": "1.0.0",
+  "description": "A simple app using [Node.js](https://nodejs.org/en/), [Express](http://expressjs.com/), [Handlebars](http://handlebarsjs.com/), and [MySQL](https://github.com/mysqljs/mysql).",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davinpatel/eatdaburger.git"
+  },
+  "author": "Davin Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davinpatel/eatdaburger/issues"
+  },
+  "homepage": "https://github.com/davinpatel/eatdaburger#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.9"
+  }
+}
