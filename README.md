@@ -1,4 +1,4 @@
-# eatdaburger
+# burger
 
 A simple app using [Node.js](https://nodejs.org/en/),
 [Express](http://expressjs.com/), [Handlebars](http://handlebarsjs.com/), and
